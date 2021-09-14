@@ -1,0 +1,25 @@
+{
+  "name": "viqueen-playground-snake",
+  "version": "1.0.0",
+  "description": "viqueen playground snake",
+  "scripts": {
+    "format:check": "prettier --check src",
+    "format": "prettier --check --write src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viqueen/playground.git"
+  },
+  "keywords": [
+    "viqueen",
+    "playground",
+    "snake",
+    "game"
+  ],
+  "author": "Hasnae R.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/viqueen/playground/issues"
+  },
+  "homepage": "https://github.com/viqueen/playground#readme"
+}
