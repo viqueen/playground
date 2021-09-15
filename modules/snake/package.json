@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "viqueen playground snake",
   "scripts": {
+    "build": "webpack build --watch",
     "format:check": "prettier --check src",
     "format": "prettier --check --write src"
   },
