@@ -4,6 +4,7 @@
   "description": "viqueen playground snake",
   "scripts": {
     "build": "webpack build --watch",
+    "start": "webpack serve",
     "format:check": "prettier --check src",
     "format": "prettier --check --write src"
   },
